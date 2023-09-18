@@ -4,4 +4,3 @@ output: html_document
 date: "2023-09-18"
 ---
 
-#care
